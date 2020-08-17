@@ -10,10 +10,7 @@
 -
   type: twitter
   icon: 'fab fa-twitter'
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+
 
 # Uncomment and complete the url below to enable more contact options
 # -
