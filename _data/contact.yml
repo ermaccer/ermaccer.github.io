@@ -4,10 +4,8 @@
 #  © 2020 Cotes Chung
 #  MIT Licensed
 
-
-
--
-  type: discord
+- 
+  type: github
   icon: 'fab fa-discord'
 -
   type: twitter
