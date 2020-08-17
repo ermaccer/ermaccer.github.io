@@ -67,8 +67,7 @@
   {% for entry in site.data.contact %}
     {% capture url %}
       {%- if entry.type == 'github' -%}
-verbose: >-
- ermaccer#5969
+        https://github.com/{{ site.github.username }}
       {%- elsif entry.type == 'twitter' -%}
         https://twitter.com/{{ site.twitter.username }}
       {%- elsif entry.type == 'email' -%}
