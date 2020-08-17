@@ -14,7 +14,7 @@ using any emulator.
 
 ### Requirements
 - UMDGen (optional and if you plan to rebuild the iso)
-(https://www.romhacking.net/utilities/1218/)
+<https://www.romhacking.net/utilities/1218/>
 - Game ISO
 
 
@@ -73,6 +73,7 @@ If you don't know what ULES and ULUS mean:
 
 All done, now you can navigate to your modded folder in PPSSPP to play the game without the need of an ISO.
 
+Feel free to remove mod files after installing one.
 
 ## Rebuilding ISO
 
