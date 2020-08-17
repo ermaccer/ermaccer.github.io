@@ -18,7 +18,7 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://ermaccer.github.io/'
 
-author: your_full_name                  # change to your full name
+author: ermaccer                 # change to your full name
 
 avatar: /assets/img/avatar.png  # support internet resources
 
