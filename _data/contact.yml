@@ -4,17 +4,15 @@
 #  © 2020 Cotes Chung
 #  MIT Licensed
 
+
+
 -
-  type: github
-  icon: 'fab fa-github-alt'
+  type: discord
+  icon: 'fab fa-discord'
 -
   type: twitter
   icon: 'fab fa-twitter'
   
-  type: discord
-  icon: 'fab fa-discord'
-  verbose: >-
-  ermaccer#5969.
 
 # Uncomment and complete the url below to enable more contact options
 # -
