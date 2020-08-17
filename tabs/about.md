@@ -8,4 +8,5 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+This is a website designed to be a collection of all my projects and creations.
+You will find mods, plugins, tools, tutorials and more.
