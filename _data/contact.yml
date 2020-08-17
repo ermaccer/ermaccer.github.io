@@ -10,7 +10,11 @@
 -
   type: twitter
   icon: 'fab fa-twitter'
-
+  
+  type: discord
+  icon: 'fab fa-discord'
+  verbose: >-
+  ermaccer#5969.
 
 # Uncomment and complete the url below to enable more contact options
 # -
