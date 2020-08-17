@@ -1,5 +1,5 @@
 ---
-title: How To install Mortal Kombat Unchained Mods
+title: How To Install Mortal Kombat Unchained Mods
 date: 2020-08-17 18:54:00 +0200
 categories: [Help, Guides]
 tags: [psp, iso, mk, mku, unchained]   
