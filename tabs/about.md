@@ -12,4 +12,5 @@ This is a website designed to be a collection of all my projects and creations.
 You will find mods, plugins, tools, tutorials and more.
 
 Contact:
->Discord:ermaccer#5969
+*Discord*
+>ermaccer#5969
