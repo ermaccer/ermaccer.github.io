@@ -14,7 +14,7 @@ using any emulator.
 
 ### Requirements
 - UMDGen (optional and if you plan to rebuild the iso)
-https://www.romhacking.net/utilities/1218/
+(https://www.romhacking.net/utilities/1218/)
 - Game ISO
 
 
@@ -26,6 +26,7 @@ You will need to extract your game ISO.
 ### Methods
 
 **Using built-in Windows 10 functionality**
+
 If you use Windows 10, you should be able to open ISO contents by just
 double clicking at the .ISO file.
 
@@ -34,7 +35,9 @@ double clicking at the .ISO file.
 Select both items and drag them over to a folder (create new or existing one).
 
 **Using UMDGen**
+
 Download and extract UMDGen.
+
 Run the program, open your game ISO and extract contents to a folder.
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/img/mkutut/umdgeniso.png)
@@ -80,6 +83,7 @@ Launch UMDGen again, open your ISO and do the following:
  - Drag ARCHIVE.BIN/ARCHIVE.IMP from your modded copy folder to PSP_GAME\USRDIR in UMDGen, confirm overwrite
  
 Once this is done, select File->Save As and save your new ISO somewhere.
+
 ***NOTE: Please use Save As option whenever you are doing ISO changes, Save option might sometimes break the file***
 
 
