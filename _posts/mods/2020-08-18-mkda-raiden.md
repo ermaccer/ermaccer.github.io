@@ -1,6 +1,6 @@
 ---
 title: MDKA Raiden
-date: 2020-08-17 19:33:00 +0200
+date: 2020-08-18 12:34:00 +0200
 categories: [Modifications, Mortal Kombat Unchained]
 tags: [psp, mk, mku, unchained]   
 pin: true
