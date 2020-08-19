@@ -8,8 +8,9 @@ pin: true
 
 Skin for Raiden which uses NPC model from Konquest.
 
-***NOTE**
-Fatality parts don't work.
+**NOTES**
+- Fatality parts don't work.
+- Might crash the game on certain fatalities
 
 [Guide](https://ermaccer.github.io/posts/how-to-install-mortal-kombat-unchained-mods/)
 
