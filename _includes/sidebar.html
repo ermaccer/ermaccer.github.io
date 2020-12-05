@@ -70,6 +70,8 @@
         https://github.com/{{ site.github.username }}
       {%- elsif entry.type == 'twitter' -%}
         https://twitter.com/{{ site.twitter.username }}
+	 {%- elsif entry.type == 'patreon' -%}
+        https://patreon.com/{{ site.patreon.username }}
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}
         javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))
