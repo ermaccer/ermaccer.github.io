@@ -13,7 +13,10 @@
 -
   type: patreon
   icon: 'fab fa-patreon'
-
+-
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/channel/UCFS82rBZlGi-bzURD29eMUA'
+  
 
 # Uncomment and complete the url below to enable more contact options
 # -
