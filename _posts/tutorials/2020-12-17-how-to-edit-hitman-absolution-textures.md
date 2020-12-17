@@ -20,7 +20,7 @@ Designed to edit 47's suits.
 Files were edited in GOG version - packages are most likely
 different in other releases.
 
-** This covers DDS editing only - TGA textures are a bit harder**
+**This covers DDS editing only - TGA textures are a bit harder**
 
 Quick reference:
 66F39003B60F42EFE5F4555F3DDFAAF6 - Default suit with earpiece (used in first mission)
@@ -38,7 +38,8 @@ Drag any suit package (with .pc_resourcelib extension) onto Hitman5.exe.
 
 The package is extracted to a folder with package filename.
 
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/tutorials/abso-te/folder.png)
+![Preview](https://github.com/ermaccer/ermaccer.github.io/blob/gh-pages/assets/tutorials/abso-te/folder.png?raw=true)
+
 We are interested in the .TEXT files - textures.
 Place Hitman5dds.exe in this folder and run it.
 
@@ -59,7 +60,7 @@ Open original texture with HxD, note down DXT version (your new one needs to be 
 Hit CTRL+A and write length somewhere - you'll need it.
 
 A file with stripped header:
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/tutorials/abso-te/after.png)
+![Preview](https://github.com/ermaccer/ermaccer.github.io/blob/gh-pages/assets/tutorials/abso-te/after.png?raw=true)
 
 
 
@@ -91,7 +92,7 @@ mod you will most likely need to upload whole hitmanmodels.template folder.
 
 # Examples
 
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/tutorials/abso-te/example1.png)
+![Preview](https://github.com/ermaccer/ermaccer.github.io/blob/gh-pages/assets/tutorials/abso-te/example1.png?raw=true)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yV2XMTXv0rk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
