@@ -11,7 +11,7 @@ This guide requires you to have minimum hex editing skills.
 Designed to edit 47's suits.
 
 ### Requirements
-- Hex editor, I recomend HxD for simple stuff like this
+- Hex editor, I recommend HxD for simple stuff like this
 [Download](https://mh-nexus.de/en/downloads.php?product=HxD20)
 - Hitman Absolution extracting tool (hitman5.rar archive - I'm not sure if I can reupload)
 [Download](https://forum.xentax.com/viewtopic.php?f=16&t=15883)
