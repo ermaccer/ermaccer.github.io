@@ -1,5 +1,5 @@
 ---
-title:How To Install Mortal Kombat (Deception & Armageddon) PS2 Mods
+title: How To Install Mortal Kombat PS2 Mods
 date: 2020-12-28 20:45:00 +0200
 categories: [Help, Guides]
 tags: [ps2, iso, mk, mkd, mka, deception, armageddon]
