@@ -9,8 +9,8 @@ pin: true
 ## Introduction
 This guide requires you to have knowledge of PS2 ISO rebuilding,
 it does not cover it.
-A great tutorial on how to do that can be found here:
-https://www.obscuregamers.com/threads/how-to-create-a-working-playstation-2-master-cd-r-or-dvd-r-image.772/
+A great tutorial on how to do that can be found [here](https://www.obscuregamers.com/threads/how-to-create-a-working-playstation-2-master-cd-r-or-dvd-r-image.772/)
+
 
 
 ### Requirements
