@@ -20,5 +20,5 @@ Skin for Raiden which uses NPC model from Konquest.
 
 
 
-[Download](https://drive.google.com/file/d/1Lo5O7htYFu_y6RuQTTTI2cBPyIkqcgc5/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1OB4QJbVWnNelEiDFoJGy8236pduuLZge/view?usp=sharing)
 
