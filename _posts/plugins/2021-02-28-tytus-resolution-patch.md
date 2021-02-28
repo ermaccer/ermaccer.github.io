@@ -1,7 +1,7 @@
 ---
 title: Resolution Patch - Tytus, Romek i A'Tomek
 date: 2021-02-28 15:24:00 +0200
-categories: [Modifications, Tytus Romek i A'Tomek]
+categories: [Modifications, Tytus Romek i ATomek]
 tags: [pc, asi, widescreen, patch, tytus]   
 pin: true
 ---
