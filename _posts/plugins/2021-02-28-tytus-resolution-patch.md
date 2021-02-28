@@ -8,6 +8,7 @@ pin: true
 ## Introduction
 This is a plugin which adds support for modern resolutions to Tytus, Romek i A'Tomek.
 
+**This plugin was tested only with Polish retail release!**
 
 ## Features
 
