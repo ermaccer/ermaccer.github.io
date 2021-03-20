@@ -14,8 +14,8 @@ Extracts archive files such as HARVEST.DAT and SOUND.DAT
 ## Usage
 Simply drag an archive onto the executable.
 
+[Download](https://github.com/ermaccer/HArchive/releases/)
 
-https://github.com/ermaccer/HArchive/releases/
 
 ### HImage
 Converts .BM images to viewable BMP - you'll need to
@@ -29,8 +29,8 @@ Most HEADS/INVENTORY images use INVHELP.PAL file.
 
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/harvest/himage_preview.png)
+[Download](https://github.com/ermaccer/HImage/releases)
 
-https://github.com/ermaccer/HImage/releases
 
 
 
@@ -67,5 +67,4 @@ Simply drag any Harvester text file onto the executable.
 25
 "Sorry, youngster, we're out of applications right now."
 ```
-
-https://github.com/ermaccer/HScramble/releases
+[Download](https://github.com/ermaccer/HScramble/releases)
