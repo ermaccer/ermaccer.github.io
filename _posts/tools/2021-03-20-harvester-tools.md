@@ -7,23 +7,23 @@ pin: true
 ---
 
 
-### HArchive
+# HArchive
 
 Extracts archive files such as HARVEST.DAT and SOUND.DAT
 
-## Usage
+### Usage
 Simply drag an archive onto the executable.
 
 [Download](https://github.com/ermaccer/HArchive/releases/)
 
 
-### HImage
+# HImage
 Converts .BM images to viewable BMP - you'll need to
 find proper .PAL file for the images.
 
 Most HEADS/INVENTORY images use INVHELP.PAL file.
 
-## Usage
+### Usage
 
 ```himage -e -p PALFILE.PAL IMAGE.BM```
 
@@ -34,14 +34,14 @@ Most HEADS/INVENTORY images use INVHELP.PAL file.
 
 
 
-### HScramble
+# HScramble
 Makes Harvester text files readable.
 Tested with .SCR and .IDX text files.
 
-## Usage
+### Usage
 Simply drag any Harvester text file onto the executable.
 
-# Before
+### Before
 ```
 ›
 ŔßÄÁŠĂÄĂŢ
@@ -53,7 +53,7 @@ Simply drag any Harvester text file onto the executable.
 úĹŮŢÇËŮŢĎŘŠčĹÓĆĎ„ŠŠýÂËŢŠÉËÄŠăŠÎĹŠÓĹßŠĚĹŘŠŢĹÎËÓ•
 ```
 
-# After
+### After
 
 ```
 1
