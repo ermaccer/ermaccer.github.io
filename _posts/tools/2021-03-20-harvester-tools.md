@@ -1,7 +1,7 @@
 ---
 title: Harvester Tools
 date: 2021-03-20 14:39:00 +0200
-categories: [Tools, Graphic Formats, Archive Formats, Text Formats]
+categories: [Tools, General]
 tags: [harvester, archive, bm, bmp,text]  
 pin: true
 ---
