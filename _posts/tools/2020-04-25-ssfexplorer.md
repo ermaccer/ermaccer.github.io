@@ -23,6 +23,10 @@ It also has a simple texture exporter.
 	- Mortal Kombat: Deception (PS2)
 	- Mortal Kombat: Armageddon (PS2)
 	- Mortal Kombat: Unchained (PSP)
+- Filenames for:
+	- Mortal Kombat: Unchained (PSP)
+
+Filenames were dumped from executable.
 
 
 
