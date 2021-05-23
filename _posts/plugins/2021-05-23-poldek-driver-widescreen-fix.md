@@ -15,7 +15,7 @@ tough to position them.
 3D aspect ratio is changed, so if you don't like 2D scaling, it's possible
 to disable it in INI file.
 
-This plugins also adds an option to skip intro movie and ads.
+Plugin also adds an option to skip intro movie and ads.
 
 **This plugin was tested only with Polish 1.1 retail release!**
 
