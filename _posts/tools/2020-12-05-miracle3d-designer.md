@@ -19,11 +19,10 @@ and GSM. They are used in Battle Mages and its addon Sign Of Darkness.
 - Supports Rigging Data
 - Experimental Model Optimiztaion feature
 - Decompile and Compile Models
+- Export Animations to SMD
 
 
 
-### What's not supported?
-Animation data is not supported, binary file is dumped.
 
 ### Usage
 
@@ -43,6 +42,9 @@ Decompilation will generate few files:
 - model.ini 		<- Configuration of the model
 - animationData.bin <- Binary animation data
 - name.smd 			<- Model
+
+As of 0.9, all animations are dumped to respective NAME.SMD files.
+Importing is not supported yet.
 
 
 You can only extract SMD files while decompiling.
