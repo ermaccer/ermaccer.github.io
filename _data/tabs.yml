@@ -7,6 +7,8 @@
 -
   name: Main
   icon: "fas fa-home"
+  path: tabs
+  url: main
 -
   name: Posts
   icon: "fas fa-newspaper"
