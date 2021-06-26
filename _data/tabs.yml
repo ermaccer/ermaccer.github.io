@@ -5,7 +5,7 @@
 #  MIT Licensed
 
 -
-  name: Main
+  name: Home
   icon: "fas fa-home"
   path: tabs
   url: main
