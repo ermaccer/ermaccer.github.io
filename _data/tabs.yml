@@ -4,10 +4,12 @@
 #  © 2020 Cotes Chung
 #  MIT Licensed
 
-
 -
-  name: Home
+  name: Main
   icon: "fas fa-home"
+-
+  name: Posts
+  icon: "fas fa-newspaper"
 -
   name: Categories
   icon: "fas fa-stream"
