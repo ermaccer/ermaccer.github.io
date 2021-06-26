@@ -9,14 +9,17 @@
   icon: "fas fa-home"
   path: tabs
   url: main
--
-  name: Posts
-  icon: "fas fa-newspaper"
+  
 -
   name: Categories
   icon: "fas fa-stream"
   path: tabs
-  url: categories
+  url: categories 
+ 
+-
+  name: Posts
+  icon: "fas fa-newspaper"
+
 -
   name: "Tags"
   icon: "fas fa-tags"
