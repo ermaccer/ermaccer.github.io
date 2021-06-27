@@ -9,9 +9,29 @@ Use the Posts and Categories buttons on the left side bar to navigate.
 # Projects
 
 Click on image to go to the respective page!
-[![mk9](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk9hook_logo.png)](https://ermaccer.github.io/posts/mk9hook/)
-[![mk9v](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk9hookvita_logo.png)](https://ermaccer.github.io/posts/mk9hookvita/)
-[![mkx](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mkxhook_logo.png)](https://ermaccer.github.io/posts/mkxhook/)
-[![mk11](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk11hook_logo.png)](https://ermaccer.github.io/posts/mk11hook/)
-[![i2](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/i2hook_logo.png)](https://ermaccer.github.io/posts/i2hook/)
-[![pmh](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/pluginmh_logo.png)](https://ermaccer.github.io/posts/pluginmh/)
+
+
+<a href="https://ermaccer.github.io/posts/mk9hook/">
+<img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk9hook_logo.png" width="100%" height = "100%">
+</a>
+
+<a href="https://ermaccer.github.io/posts/mk9hookvita/">
+<img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk9hookvita_logo.png" width="100%" height = "100%">
+</a>
+
+<a href="https://ermaccer.github.io/posts/mkxhook/">
+<img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mkxhook_logo.png" width="100%" height = "100%">
+</a>
+
+<a href="https://ermaccer.github.io/posts/mk11hook/">
+<img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk11hook_logo.png" width="100%" height = "100%">
+</a>
+
+<a href="https://ermaccer.github.io/posts/i2hook/">
+<img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/i2hook_logo.png" width="100%" height = "100%">
+</a>
+
+<a href="https://ermaccer.github.io/posts/pluginmh/">
+<img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/pluginmh_logo.png" width="100%" height = "100%">
+</a>
+
