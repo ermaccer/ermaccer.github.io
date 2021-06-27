@@ -15,3 +15,4 @@ Click on image to go to the respective page!
 [![mk9](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk9hook_logo.png)](https://ermaccer.github.io/posts/mk9hook/)
 [![mk9v](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk9hookvita_logo.png)](https://ermaccer.github.io/posts/mk9hookvita/)
 [![i2](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/i2hook_logo.png)](https://ermaccer.github.io/posts/i2hook/)
+[![pmh](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/pluginmh_logo.png)](https://ermaccer.github.io/posts/pluginmh/)
