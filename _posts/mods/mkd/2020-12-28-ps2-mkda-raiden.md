@@ -8,7 +8,7 @@ pin: true
 
 Skin for Raiden which uses NPC model from Konquest.
 
-[Guide](https://ermaccer.github.io/posts/2020-12-28-how-to-install-mk-ps2-mods/)
+[Guide](https://ermaccer.github.io/posts/how-to-install-mk-ps2-mods/)
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/mkdaraiden/1.jpg)
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/mkdaraiden/2.jpg)

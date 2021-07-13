@@ -9,7 +9,7 @@ pin: true
 
 Skin for Sub-Zero which uses Sektor alternate costume from MKA.
 
-[Guide](https://ermaccer.github.io/posts/2020-12-28-how-to-install-mk-ps2-mods/)
+[Guide](https://ermaccer.github.io/posts/how-to-install-mk-ps2-mods/)
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/csz/1.jpg)
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/csz/2.jpg)
