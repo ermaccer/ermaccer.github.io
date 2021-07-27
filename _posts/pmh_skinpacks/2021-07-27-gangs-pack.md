@@ -1,5 +1,5 @@
 ---
-title: Story Pack
+title: Gangs Pack
 permalink: /posts/pmh-sp-gangs-pack/
 date: 2021-07-27 21:00:00 +0200
 categories: [Addons, PluginMH Skins]
