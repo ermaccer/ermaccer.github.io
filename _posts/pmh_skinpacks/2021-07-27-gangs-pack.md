@@ -1,0 +1,29 @@
+---
+title: Story Pack
+permalink: /posts/pmh-sp-gangs-pack/
+date: 2021-07-27 21:00:00 +0200
+categories: [Addons, PluginMH Skins]
+tags: [manhunt, skinpack, skin]   
+pin: true
+---
+
+[This skin pack requires PluginMH!](https://ermaccer.github.io/posts/pluginmh/)
+
+# Installation
+Extract skin pack folders to data\skins of your Manhunt folder.
+
+# Skins
+This pack contains ALL hunters and ALL texture variants.
+
+
+
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/gang/1.jpg)
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/gang/2.jpg)
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/gang/3.jpg)
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/gang/4.jpg)
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/gang/5.jpg)
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/gang/6.jpg)
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/gang/7.jpg)
+
+[Download](https://drive.google.com/file/d/1zeWQO9jz4zTUoPCUemykgiCCf96xka7A/view?usp=sharing)
+
