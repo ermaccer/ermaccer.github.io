@@ -9,7 +9,7 @@
   
 -
   name: Projects
-  icon: "fas fa-gear"
+  icon: "fas fa-cog"
   path: tabs
   url: main
   
