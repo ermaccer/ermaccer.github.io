@@ -3,10 +3,13 @@
 #  https://github.com/cotes2020/jekyll-theme-chirpy
 #  © 2020 Cotes Chung
 #  MIT Licensed
-
 -
-  name: Home
-  icon: "fas fa-home"
+  name: Posts
+  icon: "fas fa-newspaper"
+  
+-
+  name: Projects
+  icon: "fas fa-gear"
   path: tabs
   url: main
   
@@ -16,10 +19,6 @@
   path: tabs
   url: categories 
  
--
-  name: Posts
-  icon: "fas fa-newspaper"
-
 -
   name: "Tags"
   icon: "fas fa-tags"

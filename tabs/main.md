@@ -1,10 +1,6 @@
 ---
-title: Home
+title: Projects
 ---
-# Welcome
-To my website! You'll find mods, guides, tools and more!
-
-Use the Posts and Categories buttons on the left side bar to navigate.
 
 # Projects
 
