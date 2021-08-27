@@ -2,8 +2,6 @@
 title: Projects
 ---
 
-# Projects
-
 Click on image to go to the respective page!
 
 
