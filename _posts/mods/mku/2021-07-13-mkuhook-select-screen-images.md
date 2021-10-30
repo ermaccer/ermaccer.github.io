@@ -3,7 +3,9 @@ title: MKUHook - Select Screen Images
 date: 2021-07-13 19:07:00 +0200
 categories: [Modifications, Mortal Kombat Unchained]
 tags: [psp, mk, mku, unchained]   
-pin: true
+pin: false
+img: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mku/mkuhook/selectimages.jpg
+short: Images for NPC select screen featured in MKUHook.
 ---
 
 Images for NPC select screen featured in MKUHook.

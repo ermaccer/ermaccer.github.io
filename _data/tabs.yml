@@ -11,7 +11,7 @@
   name: Projects
   icon: "fas fa-cog"
   path: tabs
-  url: main
+  url: projects
   
 -
   name: Categories
@@ -30,7 +30,7 @@
   url: archives
   icon: "fas fa-archive"
 -
-  name: "About"
+  name: "Contact"
   icon: "fas fa-info"
   path: tabs
-  url: about
+  url: contact

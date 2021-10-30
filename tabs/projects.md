@@ -5,23 +5,23 @@ title: Projects
 Click on image to go to the respective page!
 
 
-<a href="https://ermaccer.github.io/posts/mk9hook/">
+<a href="../../posts/mk9hook/">
 <img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk9hook_logo.png" width="100%" height = "100%">
 </a>
 
-<a href="https://ermaccer.github.io/posts/mk9hookvita/">
+<a href="../../posts/mk9hookvita/">
 <img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk9hookvita_logo.png" width="100%" height = "100%">
 </a>
 
-<a href="https://ermaccer.github.io/posts/mkxhook/">
+<a href="../../posts/mkxhook/">
 <img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mkxhook_logo.png" width="100%" height = "100%">
 </a>
 
-<a href="https://ermaccer.github.io/posts/mk11hook/">
+<a href="../../posts/mk11hook/">
 <img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/mk11hook_logo.png" width="100%" height = "100%">
 </a>
 
-<a href="https://ermaccer.github.io/posts/i2hook/">
+<a href="../../posts/i2hook/">
 <img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/i2hook_logo.png" width="100%" height = "100%">
 </a>
 
@@ -30,7 +30,7 @@ Click on image to go to the respective page!
 </a>
 
 
-<a href="https://ermaccer.github.io/posts/pluginmh/">
+<a href="../../posts/pluginmh/">
 <img src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/main/pluginmh_logo.png" width="100%" height = "100%">
 </a>
 

@@ -8,6 +8,19 @@ layout: page
 ---
 
 
+      
+<div id="post-list">
+
+    <div class="p-1 mx-auto text-center">
+        <h1 class="display-5 fw-normal">Modding & Game Research</h1>
+        <h4 class="display-6 fw-normal text-muted"></h4>
+    </div>
+	
+	<h2> Latest: </h2>
+
+</div> <!-- #post-list -->
+
+
 {% assign pinned = site.posts | where_exp: "item", "item.pin == true"  %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true"  %}
 {% assign posts = "" | split: "" %}
@@ -18,7 +31,7 @@ layout: page
 {% assign pinned_num = pinned.size | minus: offset %}
 
 {% if pinned_num > 0 %}
-  {% for i in (offset..pinned.size) limit: pinned_num %}
+  {% for i in (offset..pinned.size) limit: 7 %}
     {% assign posts = posts | push: pinned[i] %}
   {% endfor %}
 {% else %}
@@ -46,28 +59,32 @@ layout: page
 
 <div id="post-list">
 
-{% for post in posts %}
+{% assign i = 0 %}
+{% for post in paginator.posts %}
 
-  <div class="post-preview">
-    <div class="d-flex justify-content-between pr-xl-2">
-      <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
-      {% if post.pin == true %}
-        <i class="fas fa-thumbtack fa-fw text-muted mt-1 ml-2 mt-xl-2" data-toggle="tooltip" data-placement="left"
-        title="Pinned"></i>
-      {% endif %}
-    </div>
-    <div class="post-content">
-      <p>
-        {% include no-linenos.html content=post.content %}
-        {{ content | markdownify | strip_html | truncate: 200 }}
-      </p>
-    </div>
+<div class="bg-dark">
 
+
+  <div class="card-body bg-dark" style="margin-bottom: 20%;">
+  	{% if post.img %}
+	<img class="card-img-right flex-auto d-none d-md-block w-50"  style="float: right; border: 2px solid gray; border-radius: 1em;"src="{{ post.img }}"  alt="top-preview">
+	{% endif %}
+      <text class="post-preview"><a href="{{ post.url | relative_url }}" >{{ post.title }}</a></text>
+	  <br>
+    <text class="card-text">        
+		{% if post.short != null %}
+		{{ post.short }}
+		{% else %}
+			{% include no-linenos.html content=post.content %}
+		{{ content | markdownify | strip_html | truncate: 200 }}
+		{% endif %}
+
+	</text>
     <div class="post-meta text-muted">
       <!-- posted date -->
       <i class="far fa-clock fa-fw"></i>
       {% include timeago.html date=post.date tooltip=true %}
-
+	  {{ post.categories[0] }}, {{ post.categories[1] }}
       <!-- page views -->
       {% if site.google_analytics.pv.enabled %}
       <i class="far fa-eye fa-fw"></i>
@@ -76,8 +93,10 @@ layout: page
       </span>
       {% endif %}
     </div>
-  </div> <!-- .post-review -->
-
+  </div>
+</div>
+ 
+{% assign i = i | plus: 1 %}
 {% endfor %}
 
 </div> <!-- #post-list -->

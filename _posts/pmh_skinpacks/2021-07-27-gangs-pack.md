@@ -4,7 +4,9 @@ permalink: /posts/pmh-sp-gangs-pack/
 date: 2021-07-27 21:00:00 +0200
 categories: [Addons, PluginMH Skins]
 tags: [manhunt, skinpack, skin]   
-pin: true
+pin: false
+img: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/gang/3.jpg
+short: Play as any gang member.
 ---
 
 [This skin pack requires PluginMH!](https://ermaccer.github.io/posts/pluginmh/)

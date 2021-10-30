@@ -3,7 +3,8 @@ title: Miracle3D Designer
 date: 2020-12-05 13:21:00 +0200
 categories: [Tools, Model Editing]
 tags: [m3d, battle_mages, sign_of_darkness, sod, bm, bmsod, miracle3d, sam, gsm]  
-pin: true
+short: Convert and edit Battle Mages models.
+pin: false
 ---
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/m3d/Designer.png)

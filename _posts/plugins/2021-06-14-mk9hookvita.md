@@ -3,7 +3,9 @@ title: MK9HookVita
 date: 2021-06-14 16:30:00 +0200
 categories: [Modifications, Mortal Kombat Komplete Edition]
 tags: [ps_vita, prx, mk9, mk]   
-pin: true
+pin: false
+short:  Play as NPCs and use hidden stages on the go!
+img: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mk9/mk9hookvita/3.png
 ---
 ## Introduction
 MK9HookVita is a plugin for modified PlayStation Vita consoles for Mortal Kombat Komplete Edition.

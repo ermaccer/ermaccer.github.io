@@ -8,6 +8,10 @@
 
 {% include_relative _addon/main.scss %}
 
+a:hover{
+	color: white;
+}
+
 #post-list {
   margin-top: 1rem;
   padding-right: .5rem;

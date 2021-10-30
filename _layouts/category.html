@@ -5,9 +5,44 @@ layout: page
 # https://github.com/cotes2020/jekyll-theme-chirpy
 # MIT Licensed
 ---
-
+{% if page.title != "Guides" %}
 <div id="page-category">
-  <h1 class="pl-lg-2">
+ <h1 class="pl-lg-2">
+    <i class="far fa-folder-open fa-fw text-muted"></i>
+    {{ page.title }}
+    <span class="lead text-muted pl-2">{{ site.categories[page.category] | size }}</span>
+  </h1>
+
+  <ul class="post-content pl-0">
+    {% for post in site.categories[page.category] %}
+	
+	<div class="card-body bg-dark" style="margin-bottom: 20%">
+		{% if post.img %}
+	   <img class="card-img-right flex-auto d-none d-md-block w-50"  style="float: right; border: 2px solid gray; border-radius: 1em;"src="{{ post.img }}"  alt="top-preview">
+		{% endif %}
+		<text class="post-preview"><a href="{{ post.url | relative_url }}" >{{ post.title }}</a></text>
+		<br>
+		<text class="card-text">        
+			{% if post.short != null %}
+			{{ post.short }}
+
+			{% endif %}
+	
+		</text>
+		<div class="post-meta text-muted">
+		<!-- posted date -->
+		<i class="far fa-clock fa-fw"></i>
+		{% include timeago.html date=post.date tooltip=true %}
+		</div>
+	</div>
+
+    {% endfor %}
+  </ul>
+</div>
+
+{% else %}
+<div id="page-category">
+   <h1 class="pl-lg-2">
     <i class="far fa-folder-open fa-fw text-muted"></i>
     {{ page.title }}
     <span class="lead text-muted pl-2">{{ site.categories[page.category] | size }}</span>
@@ -23,3 +58,4 @@ layout: page
     {% endfor %}
   </ul>
 </div>
+{% endif %}

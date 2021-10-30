@@ -4,7 +4,8 @@ permalink: /posts/pmh-sp-story-pack/
 date: 2021-07-27 21:00:00 +0200
 categories: [Addons, PluginMH Skins]
 tags: [manhunt, skinpack, skin]   
-pin: true
+img: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/story/2.jpg
+short: Play as characters found throughout the game.
 ---
 
 [This skin pack requires PluginMH!](https://ermaccer.github.io/posts/pluginmh/)

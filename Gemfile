@@ -12,3 +12,7 @@ end
 group :test do
   gem "html-proofer"
 end
+
+gem "tzinfo", "~> 2.0"
+
+gem "tzinfo-data", "~> 1.2021"

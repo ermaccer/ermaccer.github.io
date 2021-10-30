@@ -4,7 +4,9 @@ permalink: /posts/pmh-sp-lost-in-time-pack/
 date: 2021-07-27 21:00:00 +0200
 categories: [Addons, PluginMH Skins]
 tags: [manhunt, skinpack, skin]   
-pin: true
+pin: false
+img: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/lostintime/4.jpg
+short: Play as cut or changed characters.
 ---
 
 [This skin pack requires PluginMH!](https://ermaccer.github.io/posts/pluginmh/)

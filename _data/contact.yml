@@ -3,6 +3,7 @@
 #  https://github.com/cotes2020/jekyll-theme-chirpy
 #  © 2020 Cotes Chung
 #  MIT Licensed
+  
 
 -
   type: github
@@ -13,6 +14,9 @@
 -
   type: patreon
   icon: 'fab fa-patreon'
+-
+  type: rss
+  icon: 'fas fa-rss'  
 -
   icon: 'fab fa-youtube'
   url: 'https://www.youtube.com/channel/UCFS82rBZlGi-bzURD29eMUA'

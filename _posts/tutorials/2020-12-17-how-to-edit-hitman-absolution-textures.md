@@ -3,7 +3,8 @@ title: How To Edit Hitman Absolution Textures
 date: 2020-12-17 17:03:00 +0200
 categories: [Help, Guides]
 tags: [hitman, absolution, textures, mod, modding, swap]   
-pin: true
+short: A simple guide on how to replace textures in Hitman Absolution.
+pin: false
 ---
 
 ## Introduction

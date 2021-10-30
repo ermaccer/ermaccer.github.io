@@ -3,7 +3,9 @@ title: Widescreen Fix - Poldek Driver
 date: 2021-05-23 11:25:00 +0200
 categories: [Modifications, Poldek Driver]
 tags: [pc, asi, widescreen, patch, poldek_driver]   
-pin: true
+pin: false
+short: Adds support for 16:9 widescreen to Poldek Driver.
+img: https://raw.githubusercontent.com/ermaccer/PoldekDriver.WidescreenFix/master/3.jpg
 ---
 ## Introduction
 This is a plugin which adds support for 16:9 widescreen to Poldek Driver.
