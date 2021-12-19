@@ -10,6 +10,10 @@ img: https://raw.githubusercontent.com/ermaccer/PoldekDriver.WidescreenFix/maste
 ## Introduction
 This is a plugin which adds support for 16:9 widescreen to Poldek Driver.
 
+<div class="alert bg-dark">
+	Tested only with Polish 1.1 retail release!
+</div>
+
 Why 16:9 only?
 The game abuses odd textures, engine draws them with allocated sizes, but it's
 tough to position them.
@@ -19,13 +23,9 @@ to disable it in INI file.
 
 Plugin also adds an option to skip intro movie and ads.
 
-**This plugin was tested only with Polish 1.1 retail release!**
-
-
-**Before**
-![Preview](https://raw.githubusercontent.com/ermaccer/PoldekDriver.WidescreenFix/master/1.jpg)
-**After**
-![Preview](https://raw.githubusercontent.com/ermaccer/PoldekDriver.WidescreenFix/master/2.jpg)
+<p class="text-muted">Hover mouse to see before and after!</p>
+<img src="https://raw.githubusercontent.com/ermaccer/PoldekDriver.WidescreenFix/master/1.jpg" class="img-fluid" onmouseout="this.src = 'https://raw.githubusercontent.com/ermaccer/PoldekDriver.WidescreenFix/master/1.jpg'" 
+onmouseover="this.src = 'https://raw.githubusercontent.com/ermaccer/PoldekDriver.WidescreenFix/master/2.jpg'" alt="preview">
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/PoldekDriver.WidescreenFix/master/3.jpg)
 
