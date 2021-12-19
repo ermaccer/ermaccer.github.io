@@ -798,7 +798,6 @@ div.post-content .table-wrapper {
   word-spacing: 1px;
   a {
     @extend %link-color;
-    @extend %link-underline;
     &:not(:last-child) {
       margin-right: 2px;
     }
@@ -817,7 +816,6 @@ div.post-content .table-wrapper {
     @extend %link-color;
     @extend %link-underline;
     &:hover {
-      @extend %link-hover;
     }
   }
   p {
