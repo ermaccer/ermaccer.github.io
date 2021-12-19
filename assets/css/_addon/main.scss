@@ -814,8 +814,8 @@ div.post-content .table-wrapper {
   word-wrap: break-word;
   a {
     @extend %link-color;
-    @extend %link-underline;
     &:hover {
+      @extend %link-hover;
     }
   }
   p {
