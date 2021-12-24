@@ -15,7 +15,7 @@ Extra Weapons is a simple mod aiming to add "unique" weapons to Manhunt.
 
 # Weapons
 
-- Grenade
+- Grenade (model by miauz)
 
 # Screenshots
 
