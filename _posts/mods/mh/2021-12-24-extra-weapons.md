@@ -46,4 +46,7 @@ eg.
 
 `create Grenade_(CT)`
 
+# Notes
 
+- Thrown grenade will spin on the floor until it explodes - this is how it will need to work for now (the spinning is result of physics force not releasing on hit).
+- Detonation countdown starts only if the grenade hit the floor.
