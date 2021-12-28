@@ -4,7 +4,7 @@ date: 2020-12-28 20:54:00 +0200
 categories: [Modifications, Mortal Kombat Deception]
 tags: [ps2, mk, mkd, deception]   
 pin: false
-img: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/mkdaraiden/1.jpg
+image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/mkdaraiden/1.jpg
 short: Skin for Raiden.
 ---
 

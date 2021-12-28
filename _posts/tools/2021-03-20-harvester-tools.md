@@ -4,7 +4,7 @@ date: 2021-03-20 14:39:00 +0200
 categories: [Tools, General]
 tags: [harvester, archive, bm, bmp,text]  
 pin: false
-img: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/harvest/harvester_tools.jpg
+image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/harvest/harvester_tools.jpg
 short: A collection of tools for the DOS game - Harvester.
 ---
 

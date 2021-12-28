@@ -3,7 +3,7 @@ title: Extra Weapons
 date: 2021-12-24 21:57:00 +0200
 categories: [Modifications, Manhunt]
 tags: [pc, manhunt]   
-img: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mh/ew/1.jpg
+image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mh/ew/1.jpg
 short: Add weapons to Manhunt.
 pin: false
 ---
@@ -15,7 +15,7 @@ Extra Weapons is a simple mod aiming to add "unique" weapons to Manhunt.
 
 # Weapons
 
-- Grenade (model by miauz)
+- Grenade
 
 # Screenshots
 

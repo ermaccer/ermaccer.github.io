@@ -3,7 +3,7 @@ title: Resolution Patch - Tytus, Romek i A'Tomek
 date: 2021-02-28 15:24:00 +0200
 categories: [Modifications, Tytus Romek i ATomek]
 tags: [pc, asi, widescreen, patch, tytus]   
-img: https://raw.githubusercontent.com/ermaccer/Tytus.ResolutionPatch/master/01.jpg
+image: https://raw.githubusercontent.com/ermaccer/Tytus.ResolutionPatch/master/01.jpg
 short: Adds support for modern resolutions to Tytus, Romek i A'Tomek
 pin: false
 ---

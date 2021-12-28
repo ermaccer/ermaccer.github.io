@@ -66,8 +66,8 @@ layout: page
 
 
   <div class="card-body bg-dark" style="margin-bottom: 20%;">
-  	{% if post.img %}
-	<img class="card-img-right flex-auto d-none d-md-block w-50"  style="float: right; border: 2px solid gray; border-radius: 1em;"src="{{ post.img }}"  alt="top-preview">
+  	{% if post.image %}
+	<img class="card-img-right flex-auto d-none d-md-block w-50"  style="float: right; border: 2px solid gray; border-radius: 1em;"src="{{ post.image }}"  alt="top-preview">
 	{% endif %}
       <text class="post-preview"><a href="{{ post.url | relative_url }}" >{{ post.title }}</a></text>
 	  <br>
