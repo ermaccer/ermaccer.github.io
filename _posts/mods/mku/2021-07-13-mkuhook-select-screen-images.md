@@ -20,6 +20,8 @@ Installation of these images is the same as any other MKU mod.
 
 
 
-
-[Download](https://drive.google.com/file/d/1hJhU8R65s70hinA9SskVaPObRzzKfr8s/view?usp=sharing)
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://drive.google.com/file/d/1hJhU8R65s70hinA9SskVaPObRzzKfr8s/view?usp=sharing" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
 

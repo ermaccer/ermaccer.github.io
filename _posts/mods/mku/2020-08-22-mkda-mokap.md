@@ -23,7 +23,7 @@ More of a curosity than an actual mod.
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mku/mkdamokap/2.jpg)
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mku/mkdamokap/3.jpg)
 
-
-
-[Download](https://drive.google.com/file/d/1HeE6oLo1k0o8cD2HB2W8mNLsJWEQ-nRa/view?usp=sharing)
-
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://drive.google.com/file/d/1HeE6oLo1k0o8cD2HB2W8mNLsJWEQ-nRa/view?usp=sharing" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
