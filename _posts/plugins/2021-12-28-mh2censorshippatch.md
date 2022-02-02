@@ -5,7 +5,7 @@ categories: [Modifications, Manhunt 2]
 tags: [psp, prx, manhunt, mh, mh2, manhunt2]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mh2/cens.jpg
 short: Remove censorship from PSP version of Manhunt 2.
-pin: false
+hidden: false
 ---
 ## Introduction
 A plugin for PSP version of Manhunt 2 that aims to remove censorship.
@@ -63,6 +63,12 @@ Download (PPSSPP)
 <i class="fas fa-download"></i>
 Download (PSP/Adrenaline)
 </a>
+<br>
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/Manhunt2.CensorshipPatch/" role="button">
+<i class="fab fa-github"></i>
+Source
+</a>
+
 
 ## Video
 <div class="embed-responsive embed-responsive-16by9">

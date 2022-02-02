@@ -4,7 +4,7 @@ permalink: /mkd-ps2-cyber-sub-zero/
 date: 2021-07-01 20:39:00 +0200
 categories: [Modifications, Mortal Kombat Deception]
 tags: [ps2, mk, mkd, deception]   
-pin: false
+hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/csz/3.jpg
 short: Skin for Sub-Zero.
 ---

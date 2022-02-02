@@ -1,18 +1,21 @@
 ---
-title: Resolution Patch - Tytus, Romek i A'Tomek
+title: Tytus, Romek i A'Tomek
+permalink: /posts/plugins/wsfix/tytus
 date: 2021-02-28 15:24:00 +0200
-categories: [Modifications, Tytus Romek i ATomek]
+categories: [Modifications, Widescreen Fixes]
 tags: [pc, asi, widescreen, patch, tytus]   
 image: https://raw.githubusercontent.com/ermaccer/Tytus.ResolutionPatch/master/01.jpg
-short: Adds support for modern resolutions to Tytus, Romek i A'Tomek
-pin: false
+short:  
+hidden: false
 ---
-## Introduction
-This is a plugin which adds support for modern resolutions to Tytus, Romek i A'Tomek.
+# Introduction
+This is a plugin which adds more resolutions to Tytus, Romek i A'Tomek.
 
-**This plugin was tested only with Polish retail release!**
+<div class="alert bg-dark">
+    This plugin was tested only with Polish retail release!
+</div>
 
-## Features
+# Features
 
 Supported resolutions after installing the plugin:
 - 640x480
@@ -30,16 +33,20 @@ Supported resolutions after installing the plugin:
 - 2560x1440
 - 3840x2160
 
+# Screenshots
+
 ![Preview](https://raw.githubusercontent.com/ermaccer/Tytus.ResolutionPatch/master/02.jpg)
 ![Preview](https://raw.githubusercontent.com/ermaccer/Tytus.ResolutionPatch/master/01.jpg)
 
 
-## Installation 
+# Installation 
 Extract .zip contents to the main folder of the game.
 
-
-[Download](https://github.com/ermaccer/Tytus.ResolutionPatch/releases/latest/download/Tytus.ResolutionPatch.zip)
-
+# Download
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/Tytus.ResolutionPatch/releases/latest/download/Tytus.ResolutionPatch.zip" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
 
 
 

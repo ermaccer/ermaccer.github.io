@@ -4,7 +4,7 @@ date: 2020-12-28 20:45:00 +0200
 categories: [Help, Guides]
 tags: [ps2, iso, mk, mkd, mka, deception, armageddon]
 short: Learn how to install most of my PS2 MK mods.
-pin: false
+hidden: false
 ---
 
 ## Introduction

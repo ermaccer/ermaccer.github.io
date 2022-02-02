@@ -6,6 +6,7 @@ categories: [Addons, PluginMH Skins]
 tags: [manhunt, skinpack, skin]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/story/2.jpg
 short: Play as characters found throughout the game.
+hidden: false
 ---
 
 [This skin pack requires PluginMH!](https://ermaccer.github.io/posts/pluginmh/)

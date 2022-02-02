@@ -3,7 +3,7 @@ title: MKDA Mokap
 date: 2020-08-22 16:16:00 +0200
 categories: [Modifications, Mortal Kombat Unchained]
 tags: [psp, mk, mku, unchained]   
-pin: false
+hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mku/mkdamokap/1.jpg
 short: Skin for Shujinko.
 ---

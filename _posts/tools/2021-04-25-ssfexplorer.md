@@ -5,7 +5,7 @@ categories: [Tools, Archives]
 tags: [psp, mk, mku, unchained, ps2, mk, mkd, deception, mka, armageddon]  
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/ssf/ssf_explorer.jpg
 short: Edit archives from classic PS2 era MK games!
-pin: false
+hidden: false
 ---
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/ssf/ssfexplorer.png)

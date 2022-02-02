@@ -3,7 +3,7 @@ title: MKGExplorer
 date: 2021-06-20 16:20:00 +0200
 categories: [Tools, Archives]
 tags: [dc, dreamcast, mkg, mk, geo, img]  
-pin: false
+hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/mkg/mkg_explorer.jpg
 short: MKGExplorer allows you to convert files from Mortal Kombat Gold.
 ---

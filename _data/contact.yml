@@ -13,10 +13,7 @@
   icon: 'fab fa-twitter'
 -
   type: patreon
-  icon: 'fab fa-patreon'
--
-  type: rss
-  icon: 'fas fa-rss'  
+  icon: 'fab fa-patreon' 
 -
   icon: 'fab fa-youtube'
   url: 'https://www.youtube.com/channel/UCFS82rBZlGi-bzURD29eMUA'

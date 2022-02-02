@@ -5,7 +5,7 @@ categories: [Tools, Model Editing]
 tags: [m3d, battle_mages, sign_of_darkness, sod, bm, bmsod, miracle3d, sam, gsm]  
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/m3d/m3d_designer.jpg
 short: Convert and edit Battle Mages models.
-pin: false
+hidden: false
 ---
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/m3d/Designer.png)

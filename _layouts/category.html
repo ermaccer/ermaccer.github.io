@@ -13,32 +13,32 @@ layout: page
     <span class="lead text-muted pl-2">{{ site.categories[page.category] | size }}</span>
   </h1>
 
-  <ul class="post-content pl-0">
-    {% for post in site.categories[page.category] %}
-	
-	<div class="card-body bg-dark" style="margin-bottom: 20%">
-		{% if post.image %}
-	   <img class="card-img-right flex-auto d-none d-md-block w-50"  style="float: right; border: 2px solid gray; border-radius: 1em;"src="{{ post.image }}"  alt="top-preview">
-		{% endif %}
-		<text class="post-preview"><a href="{{ post.url | relative_url }}" >{{ post.title }}</a></text>
-		<br>
-		<text class="card-text">        
-			{% if post.short != null %}
-			{{ post.short }}
+  {% for post in site.categories[page.category] %}	
 
-			{% endif %}
-	
-		</text>
-		<div class="post-meta text-muted">
-		<!-- posted date -->
-		<i class="far fa-clock fa-fw"></i>
-		{% include timeago.html date=post.date tooltip=true %}
-	    {{ post.categories[0] }}, {{ post.categories[1] }}
-		</div>
-	</div>
+  <div class="row featurette">
+    <div class="col-md-7">
+      <h2 class="post-preview"><a href="{{ post.url | relative_url }}" >{{ post.title }}</a></h2>
+      <p class="lead">
+        {% if post.short != null %}
+        {{ post.short }}
+        {% endif %}
+      </p>
+      <div class="post-meta text-muted">
+        <!-- posted date -->
+        <i class="far fa-clock fa-fw"></i>
+        {% include timeago.html date=post.date tooltip=true %}
+          {{ post.categories[0] }}, {{ post.categories[1] }}
+        </div>
+    </div>
+    {% if post.image %}
+    <div class="col-md-5">
+     <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded border border-dark" src="{{ post.image }}">
+    </div>
+    {% endif %}
+  </div>
+  <hr class="featurette-divider">
 
-    {% endfor %}
-  </ul>
+  {% endfor %}
 </div>
 
 {% else %}

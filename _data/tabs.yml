@@ -6,24 +6,38 @@
 -
   name: Home
   icon: "fas fa-newspaper"
-  
+
+-
+  name: Mods
+  icon: "fas fa-cog"
+  path: pages
+  url: mods
+
+
 -
   name: Projects
-  icon: "fas fa-cog"
+  icon: "fas fa-folder"
   path: tabs
   url: projects
-  
+
+-
+  name: Tools
+  icon: "fas fa-hammer"
+  path: categories
+  url: tools
+
 -
   name: Categories
   icon: "fas fa-stream"
   path: tabs
-  url: categories 
+  url: categories
  
 -
   name: "Tags"
   icon: "fas fa-tags"
   path: tabs
   url: tags
+
 -
   name: "Archives"
   path: tabs

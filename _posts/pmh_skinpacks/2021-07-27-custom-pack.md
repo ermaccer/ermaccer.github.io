@@ -4,7 +4,7 @@ permalink: /posts/pmh-sp-custom-pack/
 date: 2021-07-27 21:00:00 +0200
 categories: [Addons, PluginMH Skins]
 tags: [manhunt, skinpack, skin]   
-pin: false
+hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/custom/jason.jpg
 short: Play as new characters.
 ---

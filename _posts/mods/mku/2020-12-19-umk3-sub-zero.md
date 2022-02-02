@@ -3,7 +3,7 @@ title: UMK3 Sub-Zero
 date: 2020-12-19 09:31:00 +0200
 categories: [Modifications, Mortal Kombat Unchained]
 tags: [psp, mk, mku, unchained]   
-pin: false
+hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mku/umk3subzero/1.jpg
 short: Skin for Sub-Zero.
 ---

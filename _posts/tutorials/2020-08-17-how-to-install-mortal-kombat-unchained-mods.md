@@ -4,7 +4,7 @@ date: 2020-08-17 18:54:00 +0200
 categories: [Help, Guides]
 tags: [psp, iso, mk, mku, unchained]   
 short: Learn how to install most of my MKU mods.
-pin: false
+hidden: false
 ---
 
 ## Introduction
