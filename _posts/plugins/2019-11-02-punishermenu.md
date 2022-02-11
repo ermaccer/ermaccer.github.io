@@ -57,7 +57,7 @@ Only works with default release (pun.exe - 2 605 056 bytes large)e xecutable!
 </div>
 
 # Download
-<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/ThePunisher.DebugMenu/releases/latest/download/PunisherMenu10.zip" role="button">
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/ThePunisher.DebugMenu/releases/latest/download/PunisherMenu.zip" role="button">
 <i class="fas fa-download"></i>
 Download
 </a>
