@@ -1,5 +1,5 @@
 ---
-title: PunisherPlugin
+title: Punisher Plugin
 date: 2021-03-31 14:44:00 +0100
 categories: [Modifications, The Punisher]
 tags: [punisher, asi, pc]   
