@@ -24,7 +24,10 @@ Only works with default release (pun.exe - 2 605 056 bytes large)e xecutable!
 | --- | --- |
 |Change Player Model| Allows to change player model into any character currently loaded in the level.|
 |Infinite Ammo| Allows to toggle infinite ammo. |
+|Infinite Health| Allows to toggle infinite Health. |
 |Give Score| Gives score and multiplier. |
+|Slowmotion| Change game speed, slowmotion, normal speed and sped up |
+|Free Camera| Control game camera. |
 |DEBUG| Allows access to various game debugging features.|
 
 
@@ -75,3 +78,4 @@ Extract .zip contents to the root folder of The Punishe.
 # Usage
 **F1**  will open or close in-game menu.
 
+Numpad 8/2, 4/6 and 1/7 control free camera. You can change these keys in the .ini (VK key codes) file;
