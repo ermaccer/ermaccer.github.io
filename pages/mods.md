@@ -16,9 +16,8 @@ title: Mods
   <div id="post-wrapper" class="col-12 col-lg-11 col-xl-12">
   <h1 class="text-center">Mods</h1>
   <hr>
-  {% assign mods= "manhunt,manhunt-2,injustice-2,mortal-kombat-ii,mortal-kombat-deception,mortal-kombat-unchained,mortal-kombat-komplete-edition,mortal-kombat-x,mortal-kombat-11,ultimate-marvel-vs-capcom-3,the-punisher,battle-mages-sign-of-darkness" | split: ',' %}
+  {% assign mods= "manhunt,manhunt-2,injustice-gods-among-us,injustice-2,mortal-kombat-ii,mortal-kombat-deception,mortal-kombat-unchained,mortal-kombat-komplete-edition,mortal-kombat-x,mortal-kombat-11,ultimate-marvel-vs-capcom-3,the-punisher,scarface,battle-mages-sign-of-darkness,sniper-elite-nazi-zombie-army" | split: ',' %}
 
-   {% assign misc= "widescreen-fixes" | split: ',' %}
 
   {% for mod in mods %}
         <div class="text-center col-lg-4 col-sm-12 float-left">
