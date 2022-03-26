@@ -87,6 +87,30 @@ A list of more important/big projects that I developed.
   <div class="row featurette">
     <div class="col-md-7">
       <figure class="figure">
+        <img class="featurette-heading d-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="injhook" src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/projects/injhook_logo_export.png">
+        <figcaption class="figure-caption text-left">Injustice: Gods Among Us</figcaption>
+      </figure>
+    </div>
+    <div class="col-md-5">
+      <p class="lead">Play as NPCs and on unused stages.</p>
+      <div class="post-meta text-muted d-flex flex-column">
+        Available for:
+      </div>
+
+      <div style="font-size: 2em;">
+       <i class="fab fa-steam" data-toggle="tooltip" data-placement="top" title="Windows (Steam)"></i>
+     </div>
+    <a class="btn btn-block btn-dark bg-dark text-gray btn-sm" href="/posts/injhook" target="_blank" role="button">
+      View
+    </a>
+    </div>
+  </div>
+
+  <hr class="featurette-divider">
+
+  <div class="row featurette">
+    <div class="col-md-7">
+      <figure class="figure">
         <img class="featurette-heading d-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="mk9hook" src="https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/projects/mk9hook_logo_export.png">
         <figcaption class="figure-caption text-left">Mortal Kombat Komplete Edition</figcaption>
       </figure>
