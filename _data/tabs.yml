@@ -13,13 +13,6 @@
   path: pages
   url: mods
 
-
--
-  name: Projects
-  icon: "fas fa-folder"
-  path: tabs
-  url: projects
-
 -
   name: Tools
   icon: "fas fa-hammer"
