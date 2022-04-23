@@ -3,7 +3,7 @@ title: Free Camera
 date: 2022-03-12 11:00:00 +0100
 categories: [Modifications, Fable The Lost Chapters]
 tags: [asi, fable, ftlc]   
-image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/freecam/3.jpg
+image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/freecam/3.jpeg
 short: A simple plugin that adds/restores free camera functionality.
 hidden: false
 ---
@@ -22,9 +22,9 @@ A simple plugin that adds/restores free camera functionality in the PC version o
 
 # Screenshots
 
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/freecam/1.jpg)
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/freecam/2.jpg)
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/freecam/3.jpg)
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/freecam/1.jpeg)
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/freecam/2.jpeg)
+![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/freecam/3.jpeg)
 
 # Download
 
