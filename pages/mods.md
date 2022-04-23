@@ -17,7 +17,7 @@ title: Mods
   <h1 class="text-center">Mods</h1>
   <hr>
 
-  {% assign mods= "manhunt,manhunt-2,injustice-gods-among-us,injustice-2,mortal-kombat-ii,mortal-kombat-deception,mortal-kombat-unchained,mortal-kombat-armageddon,mortal-kombat-komplete-edition,mortal-kombat-x,mortal-kombat-11,ultimate-marvel-vs-capcom-3,the-punisher,scarface,battle-mages-sign-of-darkness,sniper-elite-nazi-zombie-army" | split: ',' %}
+  {% assign mods= "manhunt,manhunt-2,injustice-gods-among-us,injustice-2,mortal-kombat-ii,mortal-kombat-deception,mortal-kombat-unchained,mortal-kombat-armageddon,mortal-kombat-komplete-edition,mortal-kombat-x,mortal-kombat-11,ultimate-marvel-vs-capcom-3,the-punisher,scarface,battle-mages-sign-of-darkness,sniper-elite-nazi-zombie-army,fable-the-lost-chapters,fable-anniversary" | split: ',' %}
 
   {% for mod in mods %}
         <div class="text-center w-25 col-sm-4 float-left">
