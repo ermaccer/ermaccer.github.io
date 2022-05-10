@@ -2,7 +2,7 @@
 title: FableMenu
 date: 2022-04-23 15:48:00 +0100
 categories: [Modifications, Fable The Lost Chapters]
-tags: [asi, fable, ftlc]   
+tags: [asi, fable, ftlc, imgui]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/menu/1.jpg
 short: Modify Player, create objects and more!
 hidden: false
@@ -19,15 +19,10 @@ FableMenu is a plugin for PC version of Fable: The Lost Chapters.
 
 | Tab | Description |
 | --- | --- |
-|Player| Change body looks, set health, add gold or change position. |
-|Camera| Free camera, freeze camera and change FOV.  |
+|Player| Change body looks, set health, will, add gold or change position. Modify current experience. |
+|Camera| Free camera, freeze camera and change FOV. Teleport player to camera location.  |
 |World| Change time, create objects. |
-|Misc.| Hide HUD, god mode, spell slowmotion. |
-
-# Screenshots
-
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/menu/1.jpg)
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/menu/2.jpg)
+|Misc.| Hide HUD, cheats, spell slowmotion. |
 
 # Download
 
@@ -41,6 +36,12 @@ Download
 Source
 </a>
 
+# Video
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/k-DiLlovBpU" allowfullscreen></iframe>
+</div>
+
 
 # Installation 
 
@@ -51,6 +52,8 @@ Archive breakdown:
  - dinput8.dll - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/)
  - FableMenu.asi 
  - FableMenu.ini - configuration file
+
+
 
 # Issues
 - Hiding HUD might make menu disappear when any object is being targeted, simple way to fix is to close menu if open and untick hide HUD option in the pause menu.
