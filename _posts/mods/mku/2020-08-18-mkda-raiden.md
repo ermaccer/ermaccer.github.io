@@ -5,7 +5,7 @@ categories: [Modifications, Mortal Kombat Unchained]
 tags: [psp, mk, mku, unchained]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mku/mkdaraiden/1.jpg
-short: Skin for Raiden.
+description: Skin for Raiden.
 ---
 
 Skin for Raiden which uses NPC model from Konquest.

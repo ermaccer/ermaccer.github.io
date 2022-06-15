@@ -6,7 +6,7 @@ categories: [Addons, PluginMH Skins]
 tags: [manhunt, skinpack, skin]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/lostintime/4.jpg
-short: Play as cut or changed characters.
+description: Play as cut or changed characters.
 ---
 
 [This skin pack requires PluginMH!](https://ermaccer.github.io/posts/pluginmh/)

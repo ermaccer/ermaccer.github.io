@@ -4,7 +4,7 @@ date: 2022-03-12 11:00:00 +0100
 categories: [Modifications, Fable The Lost Chapters]
 tags: [asi, fable, ftlc]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/freecam/3.jpeg
-short: A simple plugin that adds/restores free camera functionality.
+description: A simple plugin that adds/restores free camera functionality.
 hidden: false
 ---
 

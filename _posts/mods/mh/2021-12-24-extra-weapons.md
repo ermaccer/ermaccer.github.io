@@ -4,7 +4,7 @@ date: 2021-12-24 21:57:00 +0200
 categories: [Modifications, Manhunt]
 tags: [pc, manhunt]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mh/ew/1.jpg
-short: Add weapons to Manhunt.
+description: Add weapons to Manhunt.
 hidden: false
 ---
 

@@ -5,7 +5,7 @@ date: 2021-05-23 11:25:00 +0100
 categories: [Modifications, Widescreen Fixes]
 tags: [pc, asi, widescreen, patch, poldek_driver]   
 hidden: false
-short:  
+description:  
 image: https://raw.githubusercontent.com/ermaccer/PoldekDriver.WidescreenFix/master/3.jpg
 ---
 #  Introduction

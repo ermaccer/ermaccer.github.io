@@ -6,7 +6,7 @@ categories: [Modifications, Mortal Kombat Deception]
 tags: [ps2, mk, mkd, deception]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/csz/3.jpg
-short: Skin for Sub-Zero.
+description: Skin for Sub-Zero.
 ---
 
 Skin for Sub-Zero which uses Sektor alternate costume from MKA.

@@ -3,7 +3,7 @@ title: Debug Menu Unlock
 date: 2020-05-24 14:44:00 +0100
 categories: [Modifications, Scarface]
 tags: [scarface, asi, pc]   
-short: A simple plugin to enable unused debug menu. 
+description: A simple plugin to enable unused debug menu. 
 image: https://raw.githubusercontent.com/ermaccer/Scarface.DebugMenu/master/debug_preview.jpg
 pin: false
 hidden: false

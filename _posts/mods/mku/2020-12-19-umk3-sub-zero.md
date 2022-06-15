@@ -5,7 +5,7 @@ categories: [Modifications, Mortal Kombat Unchained]
 tags: [psp, mk, mku, unchained]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mku/umk3subzero/1.jpg
-short: Skin for Sub-Zero.
+description: Skin for Sub-Zero.
 ---
 
 Skin for Sub-Zero which aims to replicate UMK3 outift using

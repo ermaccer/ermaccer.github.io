@@ -4,7 +4,7 @@ date: 2022-02-09 15:10:00 +0100
 categories: [Modifications, Mortal Kombat 11]
 tags: [pc, asi, mk11, mk]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mk11/bc/1.jpg
-short: Change blood color.
+description: Change blood color.
 pin: false
 hidden: false
 ---

@@ -5,7 +5,7 @@ date: 2021-07-27 21:00:00 +0100
 categories: [Addons, PluginMH Skins]
 tags: [manhunt, skinpack, skin]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/story/2.jpg
-short: Play as characters found throughout the game.
+description: Play as characters found throughout the game.
 hidden: false
 ---
 

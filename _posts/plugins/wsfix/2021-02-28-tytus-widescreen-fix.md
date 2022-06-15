@@ -5,7 +5,7 @@ date: 2021-02-28 15:24:00 +0200
 categories: [Modifications, Widescreen Fixes]
 tags: [pc, asi, widescreen, patch, tytus]   
 image: https://raw.githubusercontent.com/ermaccer/Tytus.ResolutionPatch/master/01.jpg
-short:  
+description:  
 hidden: false
 ---
 # Introduction

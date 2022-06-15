@@ -3,7 +3,7 @@ title: Punisher Plugin
 date: 2021-03-31 14:44:00 +0100
 categories: [Modifications, The Punisher]
 tags: [punisher, asi, pc]   
-short: Censorship removal plugin.
+description: Censorship removal plugin.
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/pun/plugin/preview.jpg
 pin: false
 hidden: false

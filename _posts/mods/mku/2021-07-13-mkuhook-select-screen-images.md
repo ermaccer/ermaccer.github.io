@@ -6,7 +6,7 @@ categories: [Modifications, Mortal Kombat Unchained]
 tags: [psp, mk, mku, unchained]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mku/mkuhook/selectimages.jpg
-short: Images for NPC select screen featured in MKUHook.
+description: Images for NPC select screen featured in MKUHook.
 ---
 
 Images for NPC select screen featured in MKUHook.

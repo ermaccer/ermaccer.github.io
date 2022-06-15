@@ -5,7 +5,7 @@ categories: [Modifications, Mortal Kombat Unchained]
 tags: [psp, mk, mku, unchained]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mku/mkdamokap/1.jpg
-short: Skin for Shujinko.
+description: Skin for Shujinko.
 ---
 
 Skin for Shujinko which uses unused model.

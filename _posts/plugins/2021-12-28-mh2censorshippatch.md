@@ -4,7 +4,7 @@ date: 2021-12-28 16:21:00 +0100
 categories: [Modifications, Manhunt 2]
 tags: [psp, prx, manhunt, mh, mh2, manhunt2]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mh2/cens.jpg
-short: Remove censorship from PSP version of Manhunt 2.
+description: Remove censorship from PSP version of Manhunt 2.
 hidden: false
 ---
 ## Introduction

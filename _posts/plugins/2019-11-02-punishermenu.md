@@ -3,7 +3,7 @@ title: Debug Menu
 date: 2019-11-02 14:44:00 +0100
 categories: [Modifications, The Punisher]
 tags: [punisher, asi, pc]   
-short: A simple debug/cheats menu for The Punisher.
+description: A simple debug/cheats menu for The Punisher.
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/pun/menu/preview.jpg
 pin: false
 hidden: false

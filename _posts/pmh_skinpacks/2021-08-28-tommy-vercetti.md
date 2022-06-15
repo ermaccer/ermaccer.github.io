@@ -6,7 +6,7 @@ categories: [Addons, PluginMH Skins]
 tags: [manhunt, skinpack, skin]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/custom/tommy.jpg
-short: The Harwood Butcher
+description: The Harwood Butcher
 ---
 
 [This skin pack requires PluginMH!](https://ermaccer.github.io/posts/pluginmh/)

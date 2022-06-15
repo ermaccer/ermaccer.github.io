@@ -4,7 +4,7 @@ date: 2021-06-14 16:30:00 +0200
 categories: [Modifications, Mortal Kombat Komplete Edition]
 tags: [ps_vita, prx, mk9, mk]   
 pin: false
-short:  Play as NPCs and use hidden stages on the go!
+description:  Play as NPCs and use hidden stages on the go!
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mk9/mk9hookvita/3.png
 hidden: false
 ---

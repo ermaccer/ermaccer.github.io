@@ -4,7 +4,7 @@ date: 2022-03-19 11:00:00 +0100
 categories: [Modifications, Fable Anniversary]
 tags: [asi, fable, fann]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/fablea/freecam/1.jpg
-short: A simple plugin that adds/restores free camera functionality.
+description: A simple plugin that adds/restores free camera functionality.
 hidden: false
 ---
 

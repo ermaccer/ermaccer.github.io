@@ -5,7 +5,7 @@ categories: [Modifications, Mortal Kombat II]
 tags: [sega, 32x, mk, mk2]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mk2/preview.jpg
-short: Replace select screen characters with hidden ones.
+description: Replace select screen characters with hidden ones.
 ---
 
 A simple IPS patch for Sega 32X version of Mortal Kombat II replacing some select screen characters with hidden ones.

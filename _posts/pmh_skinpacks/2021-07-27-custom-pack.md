@@ -6,7 +6,7 @@ categories: [Addons, PluginMH Skins]
 tags: [manhunt, skinpack, skin]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/pmhsp/custom/jason.jpg
-short: Play as new characters.
+description: Play as new characters.
 ---
 
 [This skin pack requires PluginMH!](https://ermaccer.github.io/posts/pluginmh/)

@@ -4,7 +4,7 @@ date: 2022-04-23 15:48:00 +0100
 categories: [Modifications, Fable The Lost Chapters]
 tags: [asi, fable, ftlc, imgui]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/ftlc/menu/1.jpg
-short: Modify Player, create objects and more!
+description: Modify Player, create objects and more!
 hidden: false
 ---
 

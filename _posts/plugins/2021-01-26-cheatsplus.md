@@ -5,7 +5,7 @@ categories: [Modifications, Battle Mages Sign of Darkness]
 tags: [pc, asi, bm, bmsod]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/bmsod/cht/1.jpg
-short: More cheats, more fun!
+description: More cheats, more fun!
 ---
 
 CheatsPlus adds a lot of new cheats to the game - with focus on spawning units.

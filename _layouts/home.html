@@ -59,8 +59,8 @@ layout: page
   <div class="col-md-7">
     <h2 class="post-preview"><a href="{{ post.url | relative_url }}" >{{ post.title }}</a></h2>
     <p class="lead">
-      {% if post.short != null %}
-      {{ post.short }}
+      {% if post.description != null %}
+      {{ post.description }}
       {% endif %}
     </p>
     <div class="post-meta text-muted">

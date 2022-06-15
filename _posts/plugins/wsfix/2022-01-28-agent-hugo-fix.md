@@ -5,7 +5,7 @@ date: 2022-01-28 21:45:00 +0100
 categories: [Modifications, Widescreen Fixes]
 tags: [pc, asi, widescreen, patch, hugo, agent_hugo]   
 image: https://raw.githubusercontent.com/ermaccer/AgentHugo.WidescreenFix/master/hugo01.jpg
-short:  
+description:  
 hidden: false
 ---
 # Introduction
