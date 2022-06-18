@@ -11,12 +11,12 @@ hidden: false
 A plugin for PSP version of Manhunt 2 that aims to remove censorship.
 
 <div class="alert bg-dark">
- Only <b>ULUS10280</b> is supported!
+ Only <b>ULUS10280</b> and <b>ULES00756</b> versions of the game are supported!
 </div>
 
-
-It works with both PPSSPP emulator and Adrenaline on PS Vita.
-PSP was not tested, but should work.
+<div class="alert bg-dark">
+    If using PPSSPP, make sure that the version is 1.11.3 or higher.
+</div>
 
 
 ## Changes
@@ -26,10 +26,11 @@ PSP was not tested, but should work.
 - Heads can be cut off in executions
 - Heads can be smashed using melee weapons such as baseball bat
 - Heads can be smashed in executions 
+- Blood pools no longer instantly disappear
 
 
 Note that there's still content to revert/change in order to get 100% censorship free experience.
-This includes (for example) blood pools disappearing almost instantly and file changes.
+This includes file changes.
 
 
 
