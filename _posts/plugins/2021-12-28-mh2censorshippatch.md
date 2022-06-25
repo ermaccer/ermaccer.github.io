@@ -45,12 +45,16 @@ This includes file changes.
 
 Extract .prx file to seplugins and add it to game.txt
 
+Example:
+`ms0:/seplugins/mh2censo.prx 1`
 
 ### PPSSPP
 
-Drag the PSP folder onto PPSSPP folder, which is usually located in Documents folder on Windows. On Android, it is usually in root memory card folder ("PSP").
+Drag the PSP folder onto PPSSPP folder, which is usually located in Documents folder on Windows. On Android, it is usually in root memory card/internal storage folder ("PSP").
 
 If you use PPSSPP portable, the PSP folder is in memstick directory.
+
+Make sure that PLUGINS folder ends up near SAVEDATA/SYSTEM and others!
 
 
 ## Download
