@@ -4,7 +4,7 @@ date: 2020-12-17 17:03:00 +0200
 categories: [Help, Guides]
 tags: [hitman, absolution, textures, mod, modding, swap]   
 description: A simple guide on how to replace textures in Hitman Absolution.
-hidden: true
+hidden: false
 ---
 
 ## Introduction
