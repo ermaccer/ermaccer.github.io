@@ -3,7 +3,7 @@ title: Cerberus In All Levels
 date: 2022-09-08 16:57:00 +0200
 categories: [Modifications, Manhunt]
 tags: [pc, manhunt]   
-image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mh/cerbal .jpg
+image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mh/cerbal.jpg
 description: Adds Cerberus assets to all levels.
 hidden: false
 ---
