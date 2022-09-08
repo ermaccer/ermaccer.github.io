@@ -14,7 +14,7 @@ Removes censorship (score penalty, b/w filter) and allows to dual wield any weap
 
 
 <div class="alert bg-dark">
-Only works with default release (pun.exe - 2 605 056 bytes large)e xecutable!
+Only works with default release (pun.exe - 2 605 056 bytes large) executable!
 </div>
 
 
@@ -35,6 +35,6 @@ Source
 PunisherPlugin requires [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases) .
 Extract dinput8.dll to your The Punisher folder, then rename it to d3d8.dll, you do not need to do this step if you are using ThirteenAG's Widescreen Fix.
 
-Extract .zip contents to the root folder of The Punishe.
+Extract .zip contents to the root folder of The Punisher.
 
 

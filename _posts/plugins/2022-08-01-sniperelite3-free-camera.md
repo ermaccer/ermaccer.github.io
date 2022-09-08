@@ -4,7 +4,7 @@ date: 2022-08-01 17:45:00 +0100
 categories: [Modifications, Sniper Elite 3]
 tags: [sniper_elite, asi]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/se3/freecam/1.jpg
-description: A simple plugin that free camera functionality.
+description: A simple plugin that adds free camera functionality.
 hidden: false
 ---
 
