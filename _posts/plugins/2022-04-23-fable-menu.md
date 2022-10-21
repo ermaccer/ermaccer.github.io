@@ -17,12 +17,16 @@ FableMenu is a plugin for PC version of Fable: The Lost Chapters.
 
 # Features
 
-| Tab | Description |
-| --- | --- |
-|Player| Change body looks, set health, will, add gold or change position. Modify current experience. |
-|Camera| Free camera, freeze camera and change FOV. Teleport player to camera location.  |
-|World| Change time, create objects. |
-|Misc.| Hide HUD, cheats, spell slowmotion. |
+- Free camera
+- Player morph editor
+- Player data editor (Gold, Health, Will, Experience, Position)
+- World time control
+- World object creation
+- World creature creation (also has an option to make some creatures follow and defend player)
+- HUD toggle
+- Simple slowmotion toggle
+  
+and more!
 
 # Download
 
