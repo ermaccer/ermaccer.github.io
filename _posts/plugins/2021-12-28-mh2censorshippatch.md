@@ -7,9 +7,11 @@ image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/as
 description: Remove censorship from PSP version of Manhunt 2.
 hidden: false
 ---
-## Introduction
-A plugin for PSP version of Manhunt 2 that aims to remove censorship.
 
+<p align="center">A plugin for PSP version of Manhunt 2 that aims to remove censorship.</p>
+
+# Disclaimer
+Censorship Removal Patch only aims to **reverse** what has been changed, not necessarily restore any missing stuff from other platforms.
 <div class="alert bg-dark">
  Only <b>ULUS10280</b> and <b>ULES00756</b> versions of the game are supported!
 </div>
@@ -27,12 +29,6 @@ A plugin for PSP version of Manhunt 2 that aims to remove censorship.
 - Heads can be smashed using melee weapons such as baseball bat
 - Heads can be smashed in executions 
 - Blood pools no longer instantly disappear
-
-
-Note that there's still content to revert/change in order to get 100% censorship free experience.
-This includes file changes.
-
-
 
 ## Installation 
 
