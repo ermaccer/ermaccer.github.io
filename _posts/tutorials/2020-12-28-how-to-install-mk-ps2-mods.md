@@ -48,7 +48,7 @@ Open "cdvdgen", it's a tool designed to create PS2 DVD and CD images from scratc
    - NETR.OVL
    - NTGUI.ELF
    - SLUS_XXX.XX 
-   - AREA51 (folder, can also be removed)
+   - AREA51 (MKD, folder, can also be removed)
    - CNF (folder)
    - LICENSE (folder)
    - MODULES (folder)
@@ -59,12 +59,11 @@ Open "cdvdgen", it's a tool designed to create PS2 DVD and CD images from scratc
    - LOADINGE.RAW
    - MKDA.PAK
    - MOVIER.OVL
-7. Open **ASSETS** folder of UMKD.
-8. In CDVDGEN **Directory** window, highlight **MKDA.PAK** and press delete or remove it using mouse
-9. Drag newly built **MKDA.PAK** onto the **Directory** window
-10. Save the project with File->Save, keep it around in case you'd like to install more mods and save some time
-11. Choose **Export iml file** from File menu and save it somewhere you can find
-12. Close CDVDGEN
+7. In CDVDGEN **Directory** window, highlight **MKDA.PAK** and press delete or remove it using mouse
+8. Drag newly built **MKDA.PAK** onto the **Directory** window
+9. Save the project with File->Save, keep it around in case you'd like to install more mods and save some time
+10. Choose **Export iml file** from File menu and save it somewhere you can find
+11. Close CDVDGEN
 
 
 Now open "iml2iso", it's a tool designed to convert the IML file listing into a working PS2 iso.
