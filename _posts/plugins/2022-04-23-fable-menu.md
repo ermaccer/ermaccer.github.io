@@ -35,7 +35,7 @@ and more!
 Download
 </a>
 <br>
-<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="hhttps://github.com/ermaccer/FableMenu/" role="button">
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/FableMenu/" role="button">
 <i class="fab fa-github"></i>
 Source
 </a>
