@@ -25,6 +25,14 @@ MKGExplorer allows you to convert files from Mortal Kombat Gold.
 
 
 
-## Download
-[Download](https://github.com/ermaccer/MKGExplorer/releases/latest/download/MKGExplorer.zip)
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/MKGExplorer/releases/latest/download/MKGExplorer.zip" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
+
+
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="ttps://github.com/ermaccer/MKGExplorer/" role="button">
+<i class="fab fa-github"></i>
+Source
+</a>
 

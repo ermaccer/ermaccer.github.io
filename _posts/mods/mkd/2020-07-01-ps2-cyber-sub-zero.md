@@ -11,13 +11,19 @@ description: Skin for Sub-Zero.
 
 Skin for Sub-Zero which uses Sektor alternate costume from MKA.
 
-[Guide](https://ermaccer.github.io/posts/how-to-install-mk-ps2-mods/)
-
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/csz/1.jpg)
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/csz/2.jpg)
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/csz/3.jpg)
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mkd/csz/4.jpg)
 
 
-[Download](https://drive.google.com/file/d/1v_rEX89xRkwoyo5AmzViqLeFpfF5rExQ/view?usp=sharing)
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://drive.google.com/file/d/1v_rEX89xRkwoyo5AmzViqLeFpfF5rExQ/view?usp=sharing" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
+<br>
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://ermaccer.github.io/posts/how-to-install-mk-ps2-mods/" role="button">
+<i class="fas fa-cog"></i>
+Guide
+</a>
 

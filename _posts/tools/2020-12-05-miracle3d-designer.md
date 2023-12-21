@@ -67,8 +67,18 @@ opened window type modelname.sam for animated models and
 modelname.gsm for static ones.
 
 
-## Download
-[Download](https://github.com/ermaccer/Miracle3DDesigner/releases/latest/download/M3DDesigner.zip)
 
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/m3d/example.png)
+
+
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/Miracle3DDesigner/releases/latest/download/M3DDesigner.zip" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
+
+
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/Miracle3DDesigner" role="button">
+<i class="fab fa-github"></i>
+Source
+</a>
