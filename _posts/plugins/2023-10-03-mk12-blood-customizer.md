@@ -57,7 +57,8 @@ If you are not sure how to find your Mortal Kombat 1 folder, search for it in yo
 
 Archive breakdown:
 
- - dsound.dll - mod itself
+ - dsound.dll - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/)
+ - MK1.BloodCustomizer.asi
  - BloodCustomizer.ini - configuration file
 
 
