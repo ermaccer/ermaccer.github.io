@@ -10,14 +10,15 @@ description: A collection of tools for the DOS game - Harvester.
 
 
 # HArchive
-
 Extracts archive files such as HARVEST.DAT and SOUND.DAT
 
-### Usage
+## Usage
 Simply drag an archive onto the executable.
 
-[Download](https://github.com/ermaccer/HArchive/releases/)
-
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/HArchive/releases/" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
 
 # HImage
 Converts .BM images to viewable BMP - you'll need to
@@ -25,15 +26,34 @@ find proper .PAL file for the images.
 
 Most HEADS/INVENTORY images use INVHELP.PAL file.
 
-### Usage
+## Usage
 
 ```himage -e -p PALFILE.PAL IMAGE.BM```
 
+<img class="img-fluid mx-auto" alt="menu" src="{% link assets/tools/harvest/himage_preview.png %}">
 
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/harvest/himage_preview.png)
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/himage/releases/" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
 
-[Download](https://github.com/ermaccer/HImage/releases)
 
+# HAImage
+Converts .ABM images to viewable BMP frames - you'll need to
+find proper .PAL file for the images.
+
+Most character images use INVHELP.PAL file.
+
+## Usage
+
+```haimage -e -p PALFILE.PAL IMAGE.ABM```
+
+<img class="img-fluid mx-auto" alt="menu" src="{% link assets/tools/harvest/abm_preview.png %}">
+
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/haimage/releases/" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
 
 
 
@@ -41,10 +61,10 @@ Most HEADS/INVENTORY images use INVHELP.PAL file.
 Makes Harvester text files readable.
 Tested with .SCR and .IDX text files.
 
-### Usage
+## Usage
 Simply drag any Harvester text file onto the executable.
 
-### Before
+## Before
 ```
 ›
 ŔßÄÁŠĂÄĂŢ
@@ -56,7 +76,7 @@ Simply drag any Harvester text file onto the executable.
 úĹŮŢÇËŮŢĎŘŠčĹÓĆĎ„ŠŠýÂËŢŠÉËÄŠăŠÎĹŠÓĹßŠĚĹŘŠŢĹÎËÓ•
 ```
 
-### After
+## After
 
 ```
 1
@@ -70,4 +90,7 @@ Simply drag any Harvester text file onto the executable.
 25
 "Sorry, youngster, we're out of applications right now."
 ```
-[Download](https://github.com/ermaccer/HScramble/releases)
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/HScramble/releases" role="button">
+<i class="fas fa-download"></i>
+Download
+</a>
