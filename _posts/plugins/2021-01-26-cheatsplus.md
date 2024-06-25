@@ -8,14 +8,17 @@ image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/as
 description: More cheats, more fun!
 ---
 
+<a class="btn btn-block btn-dark bg-dark text-gray btn-sm" style="color: white;" href="/posts/cheatsplusbm" role="button">
+Battle Mages Version
+</a>
+
+
 CheatsPlus adds a lot of new cheats to the game - with focus on spawning units.
-They aren't fully playable and this mod is more of an experiment than anything else.
 
 Another issue that will happen when you spawn certain units on maps is that their models are not always loaded, I have included a patch
 to make the game load all models for every map. This might increase loading time!
 
-![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/bmsod/cht/1.jpg)
-![Preview](https://i.imgur.com/6L1v6GP.png)
+<img class="img-fluid mx-auto" alt="menu" src="{% link assets/mods/bmsod/cht/1.jpg %}">
 
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -24,17 +27,16 @@ to make the game load all models for every map. This might increase loading time
 
 <br>
 
-<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://drive.google.com/file/d/1WfTgAwgfCeVPMMXh52ztj07JOEBA55Pj/view" role="button">
+# Download
+
+
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/BMSODHook/releases/download/CheatsPlus/CheatsPlus.zip" role="button">
 <i class="fas fa-download"></i>
 Download
-</a>
-
-<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://mega.nz/file/EcBCzZyb#eYv0cXJkjp3xNOMvbhYkS5IgpSDCoB8DC2JzQ8ytASg" role="button">
-<i class="fas fa-download"></i>
-Download (Battle Mages Version)
 </a>
 
 <a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/BMSODHook/" role="button">
 <i class="fab fa-github"></i>
 View Source (BMSODHook)
 </a>
+
