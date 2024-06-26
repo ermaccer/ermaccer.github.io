@@ -40,7 +40,7 @@ Extracts PC and Arcade images and textures.
 ## Usage
 Drag PC .W file or whole arcade disk image (.IMG) onto the executable.
 
-<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/wgwiffx" role="button">
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/wgwiffx/releases" role="button">
 <i class="fas fa-download"></i>
 Download
 </a>
