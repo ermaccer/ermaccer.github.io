@@ -18,7 +18,7 @@ hidden: false
 If you use Windows 10 or newer, you should be able to open ISO contents by just
 double clicking at the .ISO file. This will mount the ISO as a virtual drive.
 
-Open up the newly mounted drive and simply move everything from the virtual drive to any folder (preferably create one just for UMKD stuff).
+Open up the newly mounted drive and simply move everything from the virtual drive to any folder (preferably create one just for mod stuff).
 
 
 ## 2. Replacing Files
