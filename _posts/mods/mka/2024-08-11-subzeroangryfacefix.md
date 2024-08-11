@@ -5,10 +5,10 @@ categories: [Modifications, Mortal Kombat Armageddon]
 tags: [ps2, mk, mka, armageddon]   
 hidden: false
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mka/angry_sub/1.jpg
-description: Fixes Sub-Zeros primary angry face glitch animations.
+description: Fixes Sub-Zeros primary angry face glitched animations.
 ---
 
-Fixes Sub-Zeros primary angry face glitch animations.
+Fixes Sub-Zeros primary angry face glitched animations.
 
 # Screenshot
 <img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mka/angry_sub/1.jpg %}">
