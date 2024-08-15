@@ -2,7 +2,7 @@
 title: Widescreen Fix
 date: 2023-07-27 17:45:00 +0100
 categories: [Modifications, Moorhuhn Kart 2]
-tags: [moorhuhn, asi]   
+tags: [moorhuhn, asi, pc, widescreen]   
 image: https://raw.githubusercontent.com/ermaccer/MHK2.WidescreenFix/master/img/pic.jpg
 description: Modern resolution support and option to enhance shadows.
 hidden: false
@@ -17,7 +17,7 @@ Fixes 2D scaling and adjusts camera. Also allows to change shadow resolution.
 A new launcher is added to select any supported GPU resolution, last setting is saved to **mhk2.ini** in game folder.
 
 # Screenshots
-<img class="img-fluid mx-auto" alt="21" src="https://raw.githubusercontent.com/ermaccer/MHK2.WidescreenFix/master/img/pic.jpg">
+<img class="img-fluid mx-auto" alt="1" src="https://raw.githubusercontent.com/ermaccer/MHK2.WidescreenFix/master/img/pic.jpg">
 <img class="img-fluid mx-auto" alt="2" src="https://raw.githubusercontent.com/ermaccer/MHK2.WidescreenFix/master/img/wideturbo.jpg">
 <img class="img-fluid mx-auto" alt="3" src="https://raw.githubusercontent.com/ermaccer/MHK2.WidescreenFix/master/img/widemp.jpg">
 
