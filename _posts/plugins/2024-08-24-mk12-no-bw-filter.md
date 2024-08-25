@@ -19,11 +19,11 @@ Removes black & white filter from cinematics and brutalities, only removes the c
 
 # Screenshots
 <img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk1/nobw/1.jpg %}">
-<img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk1/nobw/2.jpg %}">
-<img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk1/nobw/3.jpg %}">
-<img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk1/nobw/4.jpg %}">
-<img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk1/nobw/5.jpg %}">
-<img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk1/nobw/6.jpg %}">
+<img class="img-fluid mx-auto" alt="2" src="{% link assets/mods/mk1/nobw/2.jpg %}">
+<img class="img-fluid mx-auto" alt="3" src="{% link assets/mods/mk1/nobw/3.jpg %}">
+<img class="img-fluid mx-auto" alt="4" src="{% link assets/mods/mk1/nobw/4.jpg %}">
+<img class="img-fluid mx-auto" alt="5" src="{% link assets/mods/mk1/nobw/5.jpg %}">
+<img class="img-fluid mx-auto" alt="6" src="{% link assets/mods/mk1/nobw/6.jpg %}">
 
 
 # Download
