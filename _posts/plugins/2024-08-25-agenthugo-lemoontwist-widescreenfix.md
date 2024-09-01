@@ -1,7 +1,7 @@
 ---
 title: Widescreen Fix
 date: 2024-08-25 19:26:00 +0100
-categories: [Modifications, Agent Hugo Lemoon twist]
+categories: [Modifications, Agent Hugo Lemoon Twist]
 tags: [hugo, asi, pc, agent_hugo, widescreen]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/wsfix/aglt/1.jpg
 description: Modern resolution support.
