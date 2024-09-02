@@ -43,4 +43,4 @@ Extract **AgentHugoLemoonTwist.WidescreenFix.zip** to root folder of Agent Hugo 
 Archive breakdown:
 
  - dinput8.dll - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/)
- - AgentHugoAgentHugoLemoonTwist.WidescreenFix.asi
+ - AgentHugoLemoonTwist.WidescreenFix.asi
