@@ -25,7 +25,7 @@ Replaces all towers and their variants with randomized fighters instead of prese
 Download
 </a>
 <br>
-<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/MK4.RandomLadder/" role="button">
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/MK4.RandomLadders/" role="button">
 <i class="fab fa-github"></i>
 Source
 </a>
