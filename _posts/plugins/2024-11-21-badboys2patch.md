@@ -48,7 +48,7 @@ Source
 
 # Installation 
 
-Extract **BadBoys2Patch.zip** to root folder of Agent Hugo Hula Holiday.
+Extract **BadBoys2Patch.zip** to root folder of Bad Boys 2.
 
 Archive breakdown:
 
