@@ -31,7 +31,7 @@ Download
 </a>
 
 
-<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="ttps://github.com/ermaccer/MKGExplorer/" role="button">
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/MKGExplorer/" role="button">
 <i class="fab fa-github"></i>
 Source
 </a>
