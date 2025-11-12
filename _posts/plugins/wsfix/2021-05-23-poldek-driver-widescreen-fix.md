@@ -1,8 +1,8 @@
 ---
-title: Poldek Driver
+title: Widescreen Fix
 permalink: /posts/plugins/wsfix/poldekdriver
 date: 2021-05-23 11:25:00 +0100
-categories: [Modifications, Widescreen Fixes]
+categories: [Modifications, Poldek Driver]
 tags: [pc, asi, widescreen, patch, poldek_driver]   
 hidden: false
 description:  
@@ -41,6 +41,9 @@ Download
 </a>
 
 
-
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/PoldekDriver.WidescreenFix/" role="button">
+<i class="fab fa-github"></i>
+Source
+</a>
 
 

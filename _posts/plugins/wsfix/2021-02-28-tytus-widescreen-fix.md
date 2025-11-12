@@ -1,8 +1,8 @@
 ---
-title: Tytus, Romek i A'Tomek
+title: Widescreen Fix
 permalink: /posts/plugins/wsfix/tytus
 date: 2021-02-28 15:24:00 +0200
-categories: [Modifications, Widescreen Fixes]
+categories: [Modifications, Tytus]
 tags: [pc, asi, widescreen, patch, tytus]   
 image: https://raw.githubusercontent.com/ermaccer/Tytus.ResolutionPatch/master/01.jpg
 description:  
@@ -48,5 +48,8 @@ Extract .zip contents to the main folder of the game.
 Download
 </a>
 
-
+<a class="btn btn-block btn-dark bg-dark text-gray btn-lg" style="color: white;" href="https://github.com/ermaccer/Tytus.ResolutionPatch/" role="button">
+<i class="fab fa-github"></i>
+Source
+</a>
 
