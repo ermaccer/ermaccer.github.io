@@ -15,18 +15,23 @@ FableMenu is a plugin for PC version of Fable: The Lost Chapters.
     Tested only with Steam version!
 </div>
 
+# Credits
+- [beqwit](https://github.com/beqwit)
+- [unveler](https://github.com/unveler)
+
+
 # Features
 
-- Free camera
-- Player morph editor
-- Player data editor (Gold, Health, Will, Experience, Position)
-- World time control
-- World object creation
-- World creature creation (also has an option to make some creatures follow and defend player)
-- HUD toggle
-- Simple slowmotion toggle
-  
-and more!
+| Feature | Description |
+| --- | --- |
+|Player Modifier| Modify player attributes like visuals, data and more. Animation player.| 
+|World Modifier| Object & creature spawners, region object & creatures editor |
+|Camera Control| Freeze camera position. Freely move and rotate camera with keyboard hotkeys. Change FOV|
+|Quest Control| Change & monitor status of active quests & scripts. Small quest tweaks (infinite bodyguards) |
+|Misc.| Disable HUD. Debug toggles. Unused features (jumping, sprinting). Cheats.|
+
+# Screenshots
+<img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/ftlc/menu/1.jpg %}">
 
 # Download
 
