@@ -2,7 +2,7 @@
 title: Blood Customizer
 date: 2023-10-03 19:01:00 +0100
 categories: [Modifications, Mortal Kombat 1]
-tags: [pc, asi, mk1, mk, imgui]   
+tags: [pc, asi, mk1, mk]   
 image: https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/mods/mk1/bc/1.jpg
 description: Change blood color.
 pin: false
@@ -17,7 +17,7 @@ A plugin for Mortal Kombat 1 which allows to change blood color for everyone.
 </div>
 
 <div class="alert bg-dark">
- There's 2 versions, standalone and MK1Hook plugin version which allows to use both mods at once.
+ There's 2 versions, standalone and MK1Hook plugin version.
 </div>
 
 # Features
