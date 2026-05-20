@@ -14,9 +14,9 @@ Known issues:
  - Depending on the stage, the neck area seems to take over priority in rendering.
 
 
-<img class="img-fluid mx-auto" alt="menu" src="{% link assets/mods/mkg/clod/1.jpg %}">
-<img class="img-fluid mx-auto" alt="menu" src="{% link assets/mods/mkg/clod/2.jpg %}">
-<img class="img-fluid mx-auto" alt="menu" src="{% link assets/mods/mkg/clod/3.jpg %}">
+<img class="img-fluid mx-auto" alt="pic" src="{% link assets/mods/mkg/clod/1.jpg %}">
+<img class="img-fluid mx-auto" alt="pic" src="{% link assets/mods/mkg/clod/2.jpg %}">
+<img class="img-fluid mx-auto" alt="pic" src="{% link assets/mods/mkg/clod/3.jpg %}">
 
 
 
