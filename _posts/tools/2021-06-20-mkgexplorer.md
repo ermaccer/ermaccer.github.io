@@ -10,15 +10,14 @@ description: MKGExplorer allows you to convert files from Mortal Kombat Gold.
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/mkg/mkgexplorer.png)
 
-MKGExplorer allows you to convert files from Mortal Kombat Gold.
+MKGExplorer allows you to convert files from and to Mortal Kombat Gold.
 
 
 ### Features
-- Convert:
-	- GEO
-		- To OBJ or SMD
-	- IMG
-		- To BMP
+- Converts GEO models to OBJ or SMD
+- Converts IMG files to BMP
+- Saves any metadata required to rebuild both file types
+- 3D model replacing support with an option to generate normals for problematic models
 
 
 ![Preview](https://raw.githubusercontent.com/ermaccer/ermaccer.github.io/gh-pages/assets/tools/mkg/preview.png)
