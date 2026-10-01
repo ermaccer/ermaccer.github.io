@@ -36,6 +36,7 @@ Ports over the PS3 Kratos character and Chamber of the Flame content to PC with 
 <img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk9/ps32pc/6.jpg %}">
 <img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk9/ps32pc/5.jpg %}">
 <img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk9/ps32pc/8.jpg %}">
+<img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk9/ps32pc/7.jpg %}">
 <img class="img-fluid mx-auto" alt="1" src="{% link assets/mods/mk9/ps32pc/10.jpg %}">
 
 # Download
